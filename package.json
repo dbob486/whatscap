@@ -1,0 +1,22 @@
+{
+  "name": "whatscap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm run dev",
+    "server": "cd server &&  npm run server.js",
+    "authServer":"cd server && npm run authServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbob486/whatscap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbob486/whatscap/issues"
+  },
+  "homepage": "https://github.com/dbob486/whatscap#readme"
+}
